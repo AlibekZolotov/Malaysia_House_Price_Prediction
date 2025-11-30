@@ -17,7 +17,6 @@ This project demonstrates how to:
 
 ## Dataset
 
-* Source: Kaggle (link to dataset if possible)
 * Size: 2000 rows × 8 columns
 * Columns:
 
