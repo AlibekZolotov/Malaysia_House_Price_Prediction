@@ -1,8 +1,5 @@
 # Malaysia_House_Price_Prediction
 Predicting house prices in Malaysia using Machine Learning (LightGBM).
-# Malaysia House Price Prediction
-
-Predicting house prices in Malaysia using **Machine Learning** with **LightGBM**.
 
 ---
 
